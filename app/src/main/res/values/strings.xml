@@ -4,4 +4,6 @@
     <string name="inMinutes">In Minuten</string>
     <string name="pickDate">Datum auswählen</string>
     <string name="age">Alter</string>
+    <string name="selectedDate">Ausgewähltes Datum</string>
+    <string name="selectedDateInMinutes">Ausgewähltes Datum in Minuten</string>
 </resources>

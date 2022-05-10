@@ -37,7 +37,7 @@
         android:text="@string/age"
         android:textAlignment="center"
         android:textColor="#5E35B1"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -46,7 +46,7 @@
         android:layout_marginTop="10dp"
         android:text="@string/inMinutes"
         android:textColor="@color/text_color"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <Button
         android:id="@+id/btnDatePicker"
@@ -60,27 +60,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ausgewähltes Datum"
+        android:text="@string/selectedDate"
         android:textColor="@color/purple_200"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/selectedDateInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ausgewähltes Datum in Minuten"
+        android:text="@string/selectedDateInMinutes"
         android:textColor="@color/purple_200"
         android:textSize="24dp" />
 
